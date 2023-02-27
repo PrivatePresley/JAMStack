@@ -16,7 +16,7 @@ images:
 
 ## HTML, single image:
 
-<img src="{{ singleImage }}" alt="info goes here" style="transform: scale(50%) rotate(20deg);" />
+<img src="{{ singleImage }}" alt="info goes here" style="transform: translate(0,-300px) scale(50%) rotate(90deg);" />
 
 ## Markdown in Liquid for loop:
 
