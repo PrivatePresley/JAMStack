@@ -1,9 +1,9 @@
 ---
 layout: layout.html
-pageTitle: New York Today
+pageTitle: New York Arts Today
 pageClass: home
 ---
 
 ## Articles
 
-<main class="stories">Loading...</main>
+<main class="stories fade-in">Loading...</main>
